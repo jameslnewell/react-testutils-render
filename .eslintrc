@@ -1,0 +1,6 @@
+{
+  "rules": {
+    "no-unused-expressions": 0 //for expect
+  },
+  "extends": "jameslnewell/react"
+}
