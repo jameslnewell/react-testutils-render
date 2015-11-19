@@ -1,7 +1,7 @@
 {
   "name": "react-testutils-render",
   "description": "A lite wrapper for shallow rendering React components.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "dependencies": {
   },
   "devDependencies": {
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git remote add origin git@github.com:jameslnewell/react-testutils-query.git"
+    "url": "git remote add origin git@github.com:jameslnewell/react-testutils-render.git"
   },
   "license": "MIT"
 }
